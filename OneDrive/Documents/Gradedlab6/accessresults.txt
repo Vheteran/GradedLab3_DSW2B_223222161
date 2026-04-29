@@ -1,0 +1,7 @@
+Registration Validation Log
+=============================
+
+This file contains records of all registration attempts processed by the system.
+Format: [Timestamp] Status
+Details: Name, Masked Password, Cleaned ID Number
+---

@@ -1,0 +1,16 @@
+{
+  "name": "registration-validation-system",
+  "version": "1.0.0",
+  "description": "Node.js registration validation system for Gauteng Department of Justice",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "registration",
+    "validation",
+    "security"
+  ],
+  "author": "",
+  "license": "ISC"
+}
